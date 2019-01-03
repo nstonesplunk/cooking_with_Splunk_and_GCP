@@ -7,7 +7,8 @@ Shoutout to [amiracle's](https://github.com/amiracle) excellent [Cooking with Sp
 
 ### Module 00: Cooking Class Overview
 Quick overview of the services supported by the following content
-마# Module 01: Configuring GCP
+
+### Module 01: Configuring GCP
 Configuring services in GCP to collect data
 
 ### Module 02: Configuring the Splunk Add-on for GCP
