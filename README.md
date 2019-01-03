@@ -5,15 +5,15 @@ Shoutout to [amiracle's](https://github.com/amiracle) excellent [Cooking with Sp
 
 ## Content
 
-# Module 00: Cooking Class Overview
+### Module 00: Cooking Class Overview
 Quick overview of the services supported by the following content
 마# Module 01: Configuring GCP
 Configuring services in GCP to collect data
 
-# Module 02: Configuring the Splunk Add-on for GCP
+### Module 02: Configuring the Splunk Add-on for GCP
 Configuring the Splunk Add-on for GCP to collect data from GCP Services
 
-# Module 03: Troubleshooting inputs in the Splunk Add-on for GCP (Under development)
+### Module 03: Troubleshooting inputs in the Splunk Add-on for GCP (Under development)
 Fixing issues that you may run into when setting up the add-on
 
-# The content in this cooking class is being iteratively improved. Any feedback, enhancement requests, bugs, etc. are all welcome and appreciated. Please create a new issue in the [GitHub repository issues](https://github.com/nstonesplunk/cooking_with_Splunk_and_GCP/issues.).
+**The content in this cooking class is being iteratively improved. Any feedback, enhancement requests, bugs, etc. are all welcome and appreciated. Please create a new issue in the [GitHub repository issues](https://github.com/nstonesplunk/cooking_with_Splunk_and_GCP/issues.).**
